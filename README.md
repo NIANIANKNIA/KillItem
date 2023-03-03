@@ -1,5 +1,9 @@
 # KillItem - 一个可以回溯玩家被清物品的掉落物清理插件
 
+本项目已经整合到[NIASERVER-V4](https://github.com/NIANIANKNIA/NIASERVER-V4)
+
+请自行前往查看，所以该项目将被设置为只读
+
 还在为玩家物品丢在地上被清理而无法恢复而担忧吗？KillItem给您提供最佳的服务器掉落物清理方案！
 
 ## 插件特性
